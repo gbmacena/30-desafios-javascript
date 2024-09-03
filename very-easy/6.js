@@ -1,7 +1,7 @@
 function letraAoContario(str) {
   return str
     .split(" ")
-    .map((palavra) => palavra.split("").reverse().join("").toLowerCase())
+    .map((palavra) => palavra.split("").reverse().join(""))
     .join(" ");
 }
 
