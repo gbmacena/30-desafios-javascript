@@ -12,5 +12,7 @@ function StringBalanceada(str) {
   );
 }
 
+console.log(StringBalanceada("Isso e um Teste"));
+console.log(StringBalanceada("Is si"));
 console.log(StringBalanceada("This is Thee"));
 console.log(StringBalanceada("Teste"));
