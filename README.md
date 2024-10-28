@@ -1,4 +1,4 @@
-# 30 DESAFIOS DE JAVASCRIPT | ![GitHub](https://img.shields.io/badge/Status-%20Progress-green)
+# 30 DESAFIOS DE JAVASCRIPT | ![GitHub](https://img.shields.io/badge/Status-%20Finished-green)
 
 ## 🚀 Sobre o Desafio 🚀
 
