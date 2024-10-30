@@ -33,7 +33,7 @@ class Sheet {
     if (formula) {
       const params = newCell.getParamsFromFormula();
       this.cells.forEach((cell) => {
-        cell.removeDependent(label); // Remove a dependência da célula atual com a label especificada.
+        cell.removeDependent(label);
         if (params.includes(cell.label)) {
           cell.addDependent(newCell);
         }
